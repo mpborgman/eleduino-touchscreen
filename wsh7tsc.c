@@ -23,8 +23,8 @@ struct wsh7_device {
 #define USB_VENDOR_ID_WSH7INCH          0x0eef
 #define USB_PRODUCT_ID_WSH7INCH         0x0005
 
-#define WSH7INCH_WIDTH                  800
-#define WSH7INCH_HEIGHT                 480
+#define WSH7INCH_WIDTH                  1024
+#define WSH7INCH_HEIGHT                 600
 
 #define WSH7INCH_MSG_LENGTH             25
 
